@@ -1,0 +1,29 @@
+*{
+    border: 10px;
+    margin: 1px;   
+border-color:#7A9E7E;
+}body{
+    
+    background-color:#FDE74C;
+}
+h1{border-style:inset;
+text-align:center;
+font-size: 4rem;
+font-family:papyrus;
+color: #00272B;
+}
+li{  cursor: pointer;
+    color:#230903;
+    font-family:papyrus ;
+}
+#type{
+    height:20px;
+    width:200px;
+    background-color:#F3EAF4;
+    color:#035E7B;
+    opacity:0.9;
+}
+button{
+   background-color: #44355B;
+   color:#2CDA9D;
+}
